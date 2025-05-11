@@ -95,3 +95,15 @@ button.animar {
     pointer-events: none;
 }
 
+.footer {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 0.9em;
+    color: #eee;
+    z-index: 3;
+    opacity: 0.8;
+    pointer-events: none;
+}
+
